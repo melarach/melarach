@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mouhcine EL ARACH  JAVA / ANGULAR developer engineer and microservices architecture
+- 👋 Hi, I’m Mouhcine EL ARACH  JAVA / ANGULAR developer engineer and microservices architect
 - 👀 I’m interested in architecture logiciel and java and microservices and devops
 - 🌱 I’m currently learning microservices and devops
 - 💞️ I’m looking to collaborate on developpement of logiciel using microservices
